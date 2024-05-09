@@ -1,0 +1,16 @@
+{
+  "name": "9MayB1",
+  "type": "package",
+  "blockId": "nD3cAsZEPXq0JIzLO6A1n",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_9MayB1"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
